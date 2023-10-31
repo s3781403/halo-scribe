@@ -11,8 +11,5 @@
     "url": "halo-scribe"
   },
   "author": "ohale",
-  "license": "ISC",
-  "devDependencies": {
-    "electron": "^27.0.2"
-  }
+  "license": "ISC"
 }
