@@ -7,12 +7,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# testing
+/coverage
+
 node_modules
 dist
 dist-ssr
 dist-electron
 release
 *.local
+
+# production
+/build
 
 # Editor directories and files
 .vscode/*
@@ -24,3 +30,6 @@ release
 *.njsproj
 *.sln
 *.sw?
+
+#misc
+.env
